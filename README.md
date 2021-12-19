@@ -1,2 +1,2 @@
 # hello-world
-Same repository. 
+Sample repository. 
